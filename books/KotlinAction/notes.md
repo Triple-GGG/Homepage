@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Key Qualities](#key-qualities)
+- [The Philosophy of Kotlin](#the-philosophy-of-kotlin)
 
 <!-- /TOC -->
 
@@ -25,3 +26,13 @@ Areas to use Kotlin:
     - *Reliability* -- The compiler verifies the correctness of the program, so there are fewer chances for craches at runtime.
     - *Maintainability* -- Working with unfamiliar code is easier because you can see what kind of objects the code is working with. (Very useful when reading code written by other guys)
     - *Tool support* -- Static typing enables reliable refactorings, precise code completion, and other IDE features.
+
+- Functional and object-oriented
+- Free and o
+
+## The Philosophy of Kotlin
+
+- Pragmatic
+- Concise
+- Safe
+- Interoperability
