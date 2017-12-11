@@ -18,3 +18,10 @@ Areas to use Kotlin:
 ## Key Qualities
 
 - Statically typed
+
+    Benefits of static typing:
+
+    - *Performance* -- Calling methods is faster because there's no need to figure out at runtime which method needs to be called.
+    - *Reliability* -- The compiler verifies the correctness of the program, so there are fewer chances for craches at runtime.
+    - *Maintainability* -- Working with unfamiliar code is easier because you can see what kind of objects the code is working with. (Very useful when reading code written by other guys)
+    - *Tool support* -- Static typing enables reliable refactorings, precise code completion, and other IDE features.
