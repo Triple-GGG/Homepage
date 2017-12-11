@@ -14,3 +14,5 @@
 ## Abstract Data Types -- Information Hiding
 
 A data type is abstract means that users don't know (or no need to know) its representation.
+
+## Dynamic Linkage -- Generic Functions
