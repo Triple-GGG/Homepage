@@ -3,3 +3,4 @@
 Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman. 2007
 
 - [Notes](notes.md)
+- [Exercises](exercises.md)
