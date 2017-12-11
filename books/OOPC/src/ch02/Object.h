@@ -7,5 +7,6 @@ extern const void *Object;
 
 int differ(const void *a, const void *b);
 size_t sizeOf(const void *self);
+void *clone(const void *self);
 
 #endif

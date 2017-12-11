@@ -10,7 +10,7 @@ int differ(const void *self, const void *b) {
 }
 
 size_t sizeOf(const void *self) {
-    cosnt struct Class *const *cp = self;
+    const struct Class *const *cp = self;
     assert(self && *cp);
     return (*cp)->size;
 }
