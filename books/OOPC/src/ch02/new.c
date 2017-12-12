@@ -1,5 +1,5 @@
 #include "new.h"
-#include "Class.h"
+#include "new.r"
 
 #include <stdlib.h>
 #include <assert.h>

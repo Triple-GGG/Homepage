@@ -1,6 +1,6 @@
 P=String
 CC=gcc
-CFLAGS= -c -Wall
+CFLAGS= -Wall
 
 $(P):
-	$(CC) $(CFLAGS) main.c new.c Object.c
+	$(CC) $(CFLAGS) main.c new.c Object.c String.c
