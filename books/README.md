@@ -15,3 +15,7 @@
 ### Compilers
 
 - [*Compilers: Principles, Techniques & Tools (2nd Edition)*](DragonBook2). Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman. 2007
+
+### Computer Science
+
+- [*Structure and Interpretation of Computer Programs (2nd Edition)*](SICP2). Harold Abelson, Gerald Jay Sussman & Julie Sussman. 1996
