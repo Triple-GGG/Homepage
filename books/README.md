@@ -19,3 +19,4 @@
 ### Computer Science
 
 - [*Structure and Interpretation of Computer Programs (2nd Edition)*](SICP2). Harold Abelson, Gerald Jay Sussman & Julie Sussman. 1996
+- [*Computer Organization and Design: The Hardware/Software Interface (5th Edition)*](CODHSI5). David A. Patterson & John L. Hennessy. 2014
