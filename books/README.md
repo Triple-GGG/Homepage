@@ -8,6 +8,10 @@
 
 - [*Object-oriented Programming with ANSI-C*](OOPC). Axel-Tobias Schreiner. 1994
 
+#### C++
+
+- [*C++ Primer (5th Edition)*](CppPrimer5). Stanley B. Lippman, Josée Lajoie & Barbara E. Moo. 2013
+
 #### Kotlin
 
 - [*Kotlin in Action*](KotlinAction). Dmitry Jemerov & Svetlana Isakova. 2016
