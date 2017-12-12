@@ -2,5 +2,5 @@
 
 [Axel-Tobias Schreiner](https://www.cs.rit.edu/~ats/). 1994
 
-- [Notes](notes.md)
+- [Annotation](annotation.md)
 - [Exercises](exercises.md)
