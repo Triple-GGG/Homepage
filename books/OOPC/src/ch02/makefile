@@ -3,4 +3,4 @@ CC=gcc
 CFLAGS= -Wall
 
 $(P):
-	$(CC) $(CFLAGS) main.c new.c Object.c String.c
+	$(CC) $(CFLAGS) main.c new.c Object.c Atom.c
