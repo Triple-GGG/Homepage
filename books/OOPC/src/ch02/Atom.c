@@ -10,6 +10,9 @@
  * An atom is a unique string object; if two atoms contain the same strings,
  * they are identical. We maintain a circular list of all atoms and we count
  * the number of times an atom is cloned.
+ *
+ * Comparing with Strings, Atoms are more expensive to construct and destroy,
+ * but cheaper to compare.
  */
 struct String {
     const void *class;
