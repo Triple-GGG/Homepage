@@ -2,5 +2,5 @@
 
 Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman. 2007
 
-- [Notes](notes.md)
+- [Annotation](annotation.md)
 - [Exercises](exercises.md)
